@@ -28,6 +28,6 @@ func main() {
     stack.push(4)
     stack.push(8)
 
-    popNum, _ := stack.pop()
-    fmt.Println(popNum)
+    popNumber, _ := stack.pop()
+    fmt.Println(popNumber)
 }
